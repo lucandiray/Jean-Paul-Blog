@@ -4,3 +4,11 @@
   background-color: #966288;
   color: white;
 }
+body {
+    text-align: center;
+}
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+}
